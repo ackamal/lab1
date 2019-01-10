@@ -20,6 +20,11 @@ body {
 	margin-left : 20px;
 }
 
+img.resize {
+	height : auto;
+	width: 520px;
+}
+
 .jumbotron {
 	position: relative;
 	background: none;
